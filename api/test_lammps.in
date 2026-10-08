@@ -1,0 +1,12 @@
+units metal
+dimension 3
+boundary p p p
+atom_style atomic
+region sim_box block 0 10 0 10 0 10 units box
+create_box 1 sim_box
+create_atoms 1 random 10 12345 sim_box
+mass 1 12.011
+pair_style soft 2.0
+pair_coeff 1 1 10.0
+thermo 100
+run 1000
