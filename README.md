@@ -139,7 +139,7 @@ If you use this software or architecture in your research, please cite the follo
 
 Special thanks to the **Most Critical Team** for their relentless dedication to building this platform. 
 
-The core simulation logic and hybrid modeling strategy are heavily inspired by and built upon our **Nobel Laureate's** physics architecture. Their pioneering work has laid the fundamental groundwork for merging artificial intelligence with rigorous physical sciences.
+
 
 ---
 <div align="center">
